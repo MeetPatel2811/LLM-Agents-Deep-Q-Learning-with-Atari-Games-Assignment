@@ -120,13 +120,3 @@ Third-party dependencies (Python, PyTorch, Gymnasium, ALE-py) retain their own o
 
 ---
 
-## Code Clarity & Professionalism
-Consistent naming, separate classes for Agent / Replay Buffer / Network, and clear docstrings.  
-Commentary explains all decisions (frame stacking, epsilon decay, sync intervals).  
-Structured, reproducible, and professionally presented.
-
----
-
-## Quality / Portfolio Notes
-Include plots and a short video demonstration showing training progress + voiceover explaining architecture and hyperparameter effects.  
-Polished presentation and clear visualizations will maximize portfolio impact.
